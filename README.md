@@ -2,7 +2,7 @@
 - 👀 I’m interested in reproduceable research/ data analysis
 - 🌱 I’m currently learning R
 - 💞️ I’m looking to collaborate on learning and teaching R
-- 📫 How to reach me: pathmes at kln dot ac dot lk
+- 📫 How to reach me: pathmes@kln.ac.lk
 
 <!---
 pathmes/pathmes is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
